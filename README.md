@@ -1,21 +1,38 @@
-# 💫 About Me:
-🔭 I’m currently working on projects like EcoTrack (environmental analytics) and JobGenie (AI career coach)<br>👯 I’m looking to collaborate on beginner-friendly open-source projects and coding challenges<br>🤝 I’m looking for help with improving my problem-solving and real-world project experience<br>🌱 I’m currently learning C++, Python, web development, and algorithms<br>💬 Ask me about coding basics, logical thinking, and project ideas<br>⚡ Fun fact: I love bikes 🚴 and enjoy exploring nature 🌱 while being an environment activist
+# Hi, I'm Vijay Kumar R 👋
 
+Full-stack developer (backend focus) and GenAI / LLM app builder.
+3rd-year CS undergraduate at RV University (Kalvium's Software Product Engineering program), Bengaluru.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vijay-kumar-r-866213319/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vijaykumar.vk3105@gmail.com) 
+## About me
+- 🚀 Software Developer at **Bigbrick Technologies** (Mar 2026 – Present): Node.js, Express.js and MongoDB APIs with role-based access control (RBAC), for a production app serving 2,500+ users
+- 🤖 Founding Engineer at **Blushy Healthcare** (Apr 2026 – Sep 2026): built **SIA**, an in-app AI companion chatbot with prompt guardrails and per-user personalization, plus 10 Node.js REST APIs
+- 🏆 National-level AI Hackathon finalist, Top 25 of 88 teams (Kalvium × PromptRepo, 2025)
+- 💬 Open to backend and GenAI internship opportunities
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vijay-kumar2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vijay-kumar2006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-kumar2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Featured projects
+- **[Krivya](https://github.com/Vijay-kumar2006/CodeOfDuty-Krivya)** ([live](https://askkrivyagenai.vercel.app/)): AI misinformation detection. Fine-tuned RoBERTa classifier plus an evidence-verification pipeline (Wikipedia and Google Custom Search, NLI models), served through FastAPI and MongoDB.
+- **[Lexolution](https://github.com/Vijay-kumar2006/LexoLaw_CodeOfDuty)**: AI legal research platform built with React, Node.js, Express.js and the Gemini API, with structured-output prompting to extract jurisdiction and case type.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vijay-kumar2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Tech stack
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=Vijay-kumar2006&icon=0&color=0)](https://visitcount.itsvg.in)
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-kumar-r-866213319/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijaykumar.vk3105@gmail.com)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## GitHub stats
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijay-kumar2006&show_icons=true&theme=dark)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-kumar2006&layout=compact&theme=dark)

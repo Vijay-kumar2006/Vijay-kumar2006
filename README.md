@@ -15,6 +15,9 @@
 ![](https://github-readme-stats.shion.dev/api?username=Vijay-kumar2006&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Vijay-kumar2006&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vijay-kumar2006&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Open Source Contributions
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vijay-kumar2006&show=prs_merged,prs_merged_percentage&hide=stars,issues&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vijay-kumar2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
